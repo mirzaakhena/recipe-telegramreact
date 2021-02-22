@@ -10,3 +10,12 @@
 .dialog-details {
     max-width: unset !important;
 }
+
+.message-wrapper {
+    max-width: unset !important;
+}
+
+.inputbox {
+    padding: 0 0 12px !important;
+    max-width: unset !important;
+}
